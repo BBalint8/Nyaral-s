@@ -15,6 +15,7 @@
 p{
     color: rgb(8, 8, 8);
     font-weight: bold;
+    font-size: 30px;
 }
 .kontener{
     display: flex;
@@ -29,4 +30,10 @@ p{
 .card:hover{
     flex: 2;
     background-color: rgb(207, 207, 207);
+}
+.h2{
+    text-align: center;
+}
+.img{
+    float: right;
 }
